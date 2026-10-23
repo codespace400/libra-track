@@ -1,0 +1,6 @@
+{
+  "name": "LibraTrack",
+  "description": "Professional library management system for administrators and librarians with books, students, loans, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
